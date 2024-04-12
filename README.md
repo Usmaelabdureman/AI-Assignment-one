@@ -11,18 +11,18 @@ We will use the following graph search problems:
 - City Graph Search
 - Random Graph Search
 
-[] We will compare the performance of these algorithms on these problems and analyze the results.
+[X] We will compare the performance of these algorithms on these problems and analyze the results.
 
-[] We will also calculate the centrality of nodes in the graph and analyze the results.
+[X] We will also calculate the centrality of nodes in the graph and analyze the results.
 
-[] We will also compare the performance of different graph representations - Adjacency List, Adjacency Matrix, and Edge List - by evaluating their efficiency on various graph operations.
+[X] We will also compare the performance of different graph representations - Adjacency List, Adjacency Matrix, and Edge List - by evaluating their efficiency on various graph operations.
 
-[] We will mark the nodes visited during the graph search algorithms to visualize their traversal paths.
+[X] We will mark the nodes visited during the graph search algorithms to visualize their traversal paths.
 
 # Group Members
 | Name         | ID Number |
 |--------------|-----------|
 | Felmeta Muktar   | UGR/3555/12 |
 | Jabir Esmael | UGR//12 |
-| Usmael Abdurhaman | UGR//12 |
+| Usmael Abdurhaman | UGR/6575/12 |
 
